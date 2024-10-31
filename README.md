@@ -1,4 +1,4 @@
-# Data Mining Assignment 1: Data Preparation and Understanding
+# Data Mining
 
 ## Overview
 
